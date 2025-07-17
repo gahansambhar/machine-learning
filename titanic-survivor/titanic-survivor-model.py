@@ -97,4 +97,6 @@ y
 
 submission = pd.DataFrame()
 
-submission = pd.concat([testData["PassengerId"], y], axis=1)
+submission = pd.concat([testData["PassengerId"], pd.Series(y)], axis=1)
+
+submission.to_csv("submission.csv", index=False)
