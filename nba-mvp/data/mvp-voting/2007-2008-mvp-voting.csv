@@ -1,18 +1,18 @@
-,Player,Age,Tm,First,Pts Won,Pts Max,Share
-0,Kobe Bryant,29,LAL,82,1100,1260,0.873
-1,Chris Paul,22,NOH,28,894,1260,0.710
-2,Kevin Garnett,31,BOS,15,670,1260,0.532
-3,LeBron James,23,CLE,1,438,1260,0.348
-4,Dwight Howard,22,ORL,0,60,1260,0.048
-5,Amar'e Stoudemire,25,PHO,0,27,1260,0.021
-6,Tim Duncan,31,SAS,0,25,1260,0.020
-7,Tracy McGrady,28,HOU,0,19,1260,0.015
-8,Steve Nash,33,PHO,0,18,1260,0.014
-9,Manu GinÃ³bili,30,SAS,0,9,1260,0.007
-10,Dirk Nowitzki,29,DAL,0,5,1260,0.004
-11,Deron Williams,23,UTA,0,4,1260,0.003
-12,Carmelo Anthony,23,DEN,0,3,1260,0.002
-13,Carlos Boozer,26,UTA,0,1,1260,0.001
-14,Antawn Jamison,31,WAS,0,1,1260,0.001
-15,Paul Pierce,30,BOS,0,1,1260,0.001
-16,Rasheed Wallace,33,DET,0,1,1260,0.001
+Player,Age,Tm,First,Pts Won,Pts Max,Share
+Kobe Bryant,29,LAL,82,1100,1260,0.873
+Chris Paul,22,NOH,28,894,1260,0.71
+Kevin Garnett,31,BOS,15,670,1260,0.532
+LeBron James,23,CLE,1,438,1260,0.348
+Dwight Howard,22,ORL,0,60,1260,0.048
+Amar'e Stoudemire,25,PHO,0,27,1260,0.021
+Tim Duncan,31,SAS,0,25,1260,0.02
+Tracy McGrady,28,HOU,0,19,1260,0.015
+Steve Nash,33,PHO,0,18,1260,0.014
+Manu GinÃ³bili,30,SAS,0,9,1260,0.007
+Dirk Nowitzki,29,DAL,0,5,1260,0.004
+Deron Williams,23,UTA,0,4,1260,0.003
+Carmelo Anthony,23,DEN,0,3,1260,0.002
+Carlos Boozer,26,UTA,0,1,1260,0.001
+Antawn Jamison,31,WAS,0,1,1260,0.001
+Paul Pierce,30,BOS,0,1,1260,0.001
+Rasheed Wallace,33,DET,0,1,1260,0.001
