@@ -44,7 +44,7 @@ while year <= 2025:
             dfsize += 1
 
     # Extracting info to a csv
-    df.to_csv(f"{year-1}-{year}-advanced-stats.csv")
+    df.to_csv(f"{year-1}-{year}-advanced-stats.csv", index=False)
 
     year += 1
-    time.sleep(5)
+    time.sleep(3)

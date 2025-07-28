@@ -43,6 +43,6 @@ while year <= 2025:
             dfsize += 1
 
     # Exporting to a csv for use in machine learning
-    df.to_csv(f"{year-1}-{year}-mvp-voting.csv")
+    df.to_csv(f"{year-1}-{year}-mvp-voting.csv", index=False)
     year += 1
-    time.sleep(5)
+    time.sleep(3)

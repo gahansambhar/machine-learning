@@ -5,6 +5,7 @@ import time
 
 
 year = 1980
+
 while year <= 2025:
 
     # Extracting HTML content from required basketball reference page
@@ -44,7 +45,7 @@ while year <= 2025:
             dfsize += 1
 
     # Extracting info to a csv
-    df.to_csv(f"{year-1}-{year}-per-game-stats.csv")
+    df.to_csv(f"{year-1}-{year}-per-game-stats.csv", index=False)
 
     year += 1
     time.sleep(5)
