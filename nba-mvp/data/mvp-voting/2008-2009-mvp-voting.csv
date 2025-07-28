@@ -1,13 +1,13 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-LeBron James,24,CLE,109,1172,1210,0.969
-Kobe Bryant,30,LAL,2,698,1210,0.577
-Dwyane Wade,27,MIA,7,680,1210,0.562
-Dwight Howard,23,ORL,1,328,1210,0.271
-Chris Paul,23,NOH,2,192,1210,0.159
-Chauncey Billups,32,TOT,0,33,1210,0.027
-Paul Pierce,31,BOS,0,21,1210,0.017
-Tony Parker,26,SAS,0,9,1210,0.007
-Brandon Roy,24,POR,0,7,1210,0.006
-Dirk Nowitzki,30,DAL,0,3,1210,0.002
-Tim Duncan,32,SAS,0,2,1210,0.002
-Yao Ming,28,HOU,0,1,1210,0.001
+Player,Tm,Share
+LeBron James,CLE,0.969
+Kobe Bryant,LAL,0.577
+Dwyane Wade,MIA,0.562
+Dwight Howard,ORL,0.271
+Chris Paul,NOH,0.159
+Chauncey Billups,TOT,0.027
+Paul Pierce,BOS,0.017
+Tony Parker,SAS,0.007
+Brandon Roy,POR,0.006
+Dirk Nowitzki,DAL,0.002
+Tim Duncan,SAS,0.002
+Yao Ming,HOU,0.001

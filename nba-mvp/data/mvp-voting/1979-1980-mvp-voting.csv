@@ -1,10 +1,10 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-Kareem Abdul-Jabbar,32,LAL,147.0,147.0,221,0.665
-Julius Erving,29,PHI,31.5,31.5,221,0.143
-George Gervin,27,SAS,19.0,19.0,221,0.086
-Larry Bird,23,BOS,15.0,15.0,221,0.068
-Tiny Archibald,31,BOS,2.0,2.0,221,0.009
-Dennis Johnson,25,SEA,2.0,2.0,221,0.009
-Dan Roundfield,26,ATL,2.0,2.0,221,0.009
-Gus Williams,26,SEA,1.5,1.5,221,0.007
-Moses Malone,24,HOU,1.0,1.0,221,0.005
+Player,Tm,Share
+Kareem Abdul-Jabbar,LAL,0.665
+Julius Erving,PHI,0.143
+George Gervin,SAS,0.086
+Larry Bird,BOS,0.068
+Tiny Archibald,BOS,0.009
+Dennis Johnson,SEA,0.009
+Dan Roundfield,ATL,0.009
+Gus Williams,SEA,0.007
+Moses Malone,HOU,0.005

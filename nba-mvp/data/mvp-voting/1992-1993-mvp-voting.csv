@@ -1,15 +1,15 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-Charles Barkley,29,PHO,59,835,980,0.852
-Hakeem Olajuwon,30,HOU,22,647,980,0.66
-Michael Jordan,29,CHI,13,565,980,0.577
-Patrick Ewing,30,NYK,4,359,980,0.366
-Dominique Wilkins,33,ATL,0,54,980,0.055
-David Robinson,27,SAS,0,33,980,0.034
-Shaquille O'Neal,20,ORL,0,30,980,0.031
-Karl Malone,29,UTA,0,10,980,0.01
-Mark Price,28,CLE,0,10,980,0.01
-Brad Daugherty,27,CLE,0,1,980,0.001
-Clyde Drexler,30,POR,0,1,980,0.001
-Joe Dumars,29,DET,0,1,980,0.001
-Shawn Kemp,23,SEA,0,1,980,0.001
-John Stockton,30,UTA,0,1,980,0.001
+Player,Tm,Share
+Charles Barkley,PHO,0.852
+Hakeem Olajuwon,HOU,0.66
+Michael Jordan,CHI,0.577
+Patrick Ewing,NYK,0.366
+Dominique Wilkins,ATL,0.055
+David Robinson,SAS,0.034
+Shaquille O'Neal,ORL,0.031
+Karl Malone,UTA,0.01
+Mark Price,CLE,0.01
+Brad Daugherty,CLE,0.001
+Clyde Drexler,POR,0.001
+Joe Dumars,DET,0.001
+Shawn Kemp,SEA,0.001
+John Stockton,UTA,0.001

@@ -1,18 +1,18 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-Dirk Nowitzki,28,DAL,83,1138,1290,0.882
-Steve Nash,32,PHO,44,1013,1290,0.785
-Kobe Bryant,28,LAL,2,521,1290,0.404
-Tim Duncan,30,SAS,0,286,1290,0.222
-LeBron James,22,CLE,0,183,1290,0.142
-Tracy McGrady,27,HOU,0,110,1290,0.085
-Chris Bosh,22,TOR,0,43,1290,0.033
-Gilbert Arenas,25,WAS,0,31,1290,0.024
-Carlos Boozer,25,UTA,0,7,1290,0.005
-Kevin Garnett,30,MIN,0,7,1290,0.005
-Chauncey Billups,30,DET,0,4,1290,0.003
-Shaquille O'Neal,34,MIA,0,3,1290,0.002
-Dwyane Wade,25,MIA,0,3,1290,0.002
-Amar'e Stoudemire,24,PHO,0,2,1290,0.002
-Carmelo Anthony,22,DEN,0,1,1290,0.001
-Baron Davis,27,GSW,0,1,1290,0.001
-Tony Parker,24,SAS,0,1,1290,0.001
+Player,Tm,Share
+Dirk Nowitzki,DAL,0.882
+Steve Nash,PHO,0.785
+Kobe Bryant,LAL,0.404
+Tim Duncan,SAS,0.222
+LeBron James,CLE,0.142
+Tracy McGrady,HOU,0.085
+Chris Bosh,TOR,0.033
+Gilbert Arenas,WAS,0.024
+Carlos Boozer,UTA,0.005
+Kevin Garnett,MIN,0.005
+Chauncey Billups,DET,0.003
+Shaquille O'Neal,MIA,0.002
+Dwyane Wade,MIA,0.002
+Amar'e Stoudemire,PHO,0.002
+Carmelo Anthony,DEN,0.001
+Baron Davis,GSW,0.001
+Tony Parker,SAS,0.001

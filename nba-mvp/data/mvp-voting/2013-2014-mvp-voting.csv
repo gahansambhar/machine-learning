@@ -1,18 +1,18 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-Kevin Durant,25,OKC,119,1232,1250,0.986
-LeBron James,29,MIA,6,891,1250,0.713
-Blake Griffin,24,LAC,0,434,1250,0.347
-Joakim Noah,28,CHI,0,322,1250,0.258
-James Harden,24,HOU,0,85,1250,0.068
-Stephen Curry,25,GSW,0,66,1250,0.053
-Chris Paul,28,LAC,0,45,1250,0.036
-Al Jefferson,29,CHA,0,34,1250,0.027
-Paul George,23,IND,0,33,1250,0.026
-LaMarcus Aldridge,28,POR,0,26,1250,0.021
-Kevin Love,25,MIN,0,25,1250,0.02
-Tim Duncan,37,SAS,0,21,1250,0.017
-Tony Parker,31,SAS,0,21,1250,0.017
-Dirk Nowitzki,35,DAL,0,7,1250,0.006
-Carmelo Anthony,29,NYK,0,4,1250,0.003
-Goran DragiÄ,27,PHO,0,3,1250,0.002
-Mike Conley,26,MEM,0,1,1250,0.001
+Player,Tm,Share
+Kevin Durant,OKC,0.986
+LeBron James,MIA,0.713
+Blake Griffin,LAC,0.347
+Joakim Noah,CHI,0.258
+James Harden,HOU,0.068
+Stephen Curry,GSW,0.053
+Chris Paul,LAC,0.036
+Al Jefferson,CHA,0.027
+Paul George,IND,0.026
+LaMarcus Aldridge,POR,0.021
+Kevin Love,MIN,0.02
+Tim Duncan,SAS,0.017
+Tony Parker,SAS,0.017
+Dirk Nowitzki,DAL,0.006
+Carmelo Anthony,NYK,0.003
+Goran DragiÄ,PHO,0.002
+Mike Conley,MEM,0.001

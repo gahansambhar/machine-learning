@@ -1,14 +1,14 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-Derrick Rose,22,CHI,113,1182,1210,0.977
-Dwight Howard,25,ORL,3,643,1210,0.531
-LeBron James,26,MIA,4,522,1210,0.431
-Kobe Bryant,32,LAL,1,428,1210,0.354
-Kevin Durant,22,OKC,0,190,1210,0.157
-Dirk Nowitzki,32,DAL,0,113,1210,0.093
-Dwyane Wade,29,MIA,0,24,1210,0.02
-Manu GinÃ³bili,33,SAS,0,20,1210,0.017
-Amar'e Stoudemire,28,NYK,0,9,1210,0.007
-Blake Griffin,21,LAC,0,5,1210,0.004
-Rajon Rondo,24,BOS,0,5,1210,0.004
-Tony Parker,28,SAS,0,3,1210,0.002
-Chris Paul,25,NOH,0,2,1210,0.002
+Player,Tm,Share
+Derrick Rose,CHI,0.977
+Dwight Howard,ORL,0.531
+LeBron James,MIA,0.431
+Kobe Bryant,LAL,0.354
+Kevin Durant,OKC,0.157
+Dirk Nowitzki,DAL,0.093
+Dwyane Wade,MIA,0.02
+Manu GinÃ³bili,SAS,0.017
+Amar'e Stoudemire,NYK,0.007
+Blake Griffin,LAC,0.004
+Rajon Rondo,BOS,0.004
+Tony Parker,SAS,0.002
+Chris Paul,NOH,0.002

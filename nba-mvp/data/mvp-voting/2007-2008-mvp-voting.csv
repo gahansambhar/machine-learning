@@ -1,18 +1,18 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-Kobe Bryant,29,LAL,82,1100,1260,0.873
-Chris Paul,22,NOH,28,894,1260,0.71
-Kevin Garnett,31,BOS,15,670,1260,0.532
-LeBron James,23,CLE,1,438,1260,0.348
-Dwight Howard,22,ORL,0,60,1260,0.048
-Amar'e Stoudemire,25,PHO,0,27,1260,0.021
-Tim Duncan,31,SAS,0,25,1260,0.02
-Tracy McGrady,28,HOU,0,19,1260,0.015
-Steve Nash,33,PHO,0,18,1260,0.014
-Manu GinÃ³bili,30,SAS,0,9,1260,0.007
-Dirk Nowitzki,29,DAL,0,5,1260,0.004
-Deron Williams,23,UTA,0,4,1260,0.003
-Carmelo Anthony,23,DEN,0,3,1260,0.002
-Carlos Boozer,26,UTA,0,1,1260,0.001
-Antawn Jamison,31,WAS,0,1,1260,0.001
-Paul Pierce,30,BOS,0,1,1260,0.001
-Rasheed Wallace,33,DET,0,1,1260,0.001
+Player,Tm,Share
+Kobe Bryant,LAL,0.873
+Chris Paul,NOH,0.71
+Kevin Garnett,BOS,0.532
+LeBron James,CLE,0.348
+Dwight Howard,ORL,0.048
+Amar'e Stoudemire,PHO,0.021
+Tim Duncan,SAS,0.02
+Tracy McGrady,HOU,0.015
+Steve Nash,PHO,0.014
+Manu GinÃ³bili,SAS,0.007
+Dirk Nowitzki,DAL,0.004
+Deron Williams,UTA,0.003
+Carmelo Anthony,DEN,0.002
+Carlos Boozer,UTA,0.001
+Antawn Jamison,WAS,0.001
+Paul Pierce,BOS,0.001
+Rasheed Wallace,DET,0.001

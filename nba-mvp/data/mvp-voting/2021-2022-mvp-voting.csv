@@ -1,13 +1,13 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-Nikola JokiÄ,26,DEN,65,875,1000,0.875
-Joel Embiid,27,PHI,26,706,1000,0.706
-Giannis Antetokounmpo,27,MIL,9,595,1000,0.595
-Devin Booker,25,PHO,0,216,1000,0.216
-Luka DonÄiÄ,22,DAL,0,146,1000,0.146
-Jayson Tatum,23,BOS,0,43,1000,0.043
-Ja Morant,22,MEM,0,10,1000,0.01
-Stephen Curry,33,GSW,0,4,1000,0.004
-Chris Paul,36,PHO,0,2,1000,0.002
-DeMar DeRozan,32,CHI,0,1,1000,0.001
-Kevin Durant,33,BRK,0,1,1000,0.001
-LeBron James,37,LAL,0,1,1000,0.001
+Player,Tm,Share
+Nikola JokiÄ,DEN,0.875
+Joel Embiid,PHI,0.706
+Giannis Antetokounmpo,MIL,0.595
+Devin Booker,PHO,0.216
+Luka DonÄiÄ,DAL,0.146
+Jayson Tatum,BOS,0.043
+Ja Morant,MEM,0.01
+Stephen Curry,GSW,0.004
+Chris Paul,PHO,0.002
+DeMar DeRozan,CHI,0.001
+Kevin Durant,BRK,0.001
+LeBron James,LAL,0.001

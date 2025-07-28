@@ -1,12 +1,12 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-Russell Westbrook,28,OKC,69,888,1010,0.879
-James Harden,27,HOU,22,753,1010,0.746
-Kawhi Leonard,25,SAS,9,500,1010,0.495
-LeBron James,32,CLE,1,333,1010,0.33
-Isaiah Thomas,27,BOS,0,81,1010,0.08
-Stephen Curry,28,GSW,0,52,1010,0.051
-Giannis Antetokounmpo,22,MIL,0,7,1010,0.007
-John Wall,26,WAS,0,7,1010,0.007
-Anthony Davis,23,NOP,0,2,1010,0.002
-Kevin Durant,28,GSW,0,2,1010,0.002
-DeMar DeRozan,27,TOR,0,1,1010,0.001
+Player,Tm,Share
+Russell Westbrook,OKC,0.879
+James Harden,HOU,0.746
+Kawhi Leonard,SAS,0.495
+LeBron James,CLE,0.33
+Isaiah Thomas,BOS,0.08
+Stephen Curry,GSW,0.051
+Giannis Antetokounmpo,MIL,0.007
+John Wall,WAS,0.007
+Anthony Davis,NOP,0.002
+Kevin Durant,GSW,0.002
+DeMar DeRozan,TOR,0.001

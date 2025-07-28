@@ -1,11 +1,11 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-Stephen Curry,27,GSW,131,1310,1310,1.0
-Kawhi Leonard,24,SAS,0,634,1310,0.484
-LeBron James,31,CLE,0,631,1310,0.482
-Russell Westbrook,27,OKC,0,486,1310,0.371
-Kevin Durant,27,OKC,0,147,1310,0.112
-Chris Paul,30,LAC,0,107,1310,0.082
-Draymond Green,25,GSW,0,50,1310,0.038
-Damian Lillard,25,POR,0,26,1310,0.02
-James Harden,26,HOU,0,9,1310,0.007
-Kyle Lowry,29,TOR,0,6,1310,0.005
+Player,Tm,Share
+Stephen Curry,GSW,1.0
+Kawhi Leonard,SAS,0.484
+LeBron James,CLE,0.482
+Russell Westbrook,OKC,0.371
+Kevin Durant,OKC,0.112
+Chris Paul,LAC,0.082
+Draymond Green,GSW,0.038
+Damian Lillard,POR,0.02
+James Harden,HOU,0.007
+Kyle Lowry,TOR,0.005

@@ -1,24 +1,24 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-Larry Bird,28,BOS,73,763,780,0.978
-Magic Johnson,25,LAL,1,264,780,0.338
-Moses Malone,29,PHI,0,218,780,0.279
-Kareem Abdul-Jabbar,37,LAL,0,206,780,0.264
-Terry Cummings,23,MIL,2,138,780,0.177
-Michael Jordan,21,CHI,2,134,780,0.172
-Bernard King,28,NYK,0,70,780,0.09
-Sidney Moncrief,27,MIL,0,65,780,0.083
-Isiah Thomas,23,DET,0,63,780,0.081
-Ralph Sampson,24,HOU,0,26,780,0.033
-Calvin Natt,28,DEN,0,22,780,0.028
-Alex English,31,DEN,0,12,780,0.015
-Hakeem Olajuwon,22,HOU,0,12,780,0.015
-Michael Ray Richardson,29,NJN,0,11,780,0.014
-Andrew Toney,27,PHI,0,5,780,0.006
-Mark Eaton,28,UTA,0,4,780,0.005
-Paul Pressey,26,MIL,0,3,780,0.004
-Jack Sikma,29,SEA,0,3,780,0.004
-Dominique Wilkins,25,ATL,0,3,780,0.004
-World B. Free,31,CLE,0,2,780,0.003
-Purvis Short,27,GSW,0,2,780,0.003
-Clyde Drexler,22,POR,0,1,780,0.001
-Julius Erving,34,PHI,0,1,780,0.001
+Player,Tm,Share
+Larry Bird,BOS,0.978
+Magic Johnson,LAL,0.338
+Moses Malone,PHI,0.279
+Kareem Abdul-Jabbar,LAL,0.264
+Terry Cummings,MIL,0.177
+Michael Jordan,CHI,0.172
+Bernard King,NYK,0.09
+Sidney Moncrief,MIL,0.083
+Isiah Thomas,DET,0.081
+Ralph Sampson,HOU,0.033
+Calvin Natt,DEN,0.028
+Alex English,DEN,0.015
+Hakeem Olajuwon,HOU,0.015
+Michael Ray Richardson,NJN,0.014
+Andrew Toney,PHI,0.006
+Mark Eaton,UTA,0.005
+Paul Pressey,MIL,0.004
+Jack Sikma,SEA,0.004
+Dominique Wilkins,ATL,0.004
+World B. Free,CLE,0.003
+Purvis Short,GSW,0.003
+Clyde Drexler,POR,0.001
+Julius Erving,PHI,0.001

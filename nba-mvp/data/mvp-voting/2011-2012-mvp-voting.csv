@@ -1,16 +1,16 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-LeBron James,27,MIA,85,1074,1210,0.888
-Kevin Durant,23,OKC,24,889,1210,0.735
-Chris Paul,26,LAC,6,385,1210,0.318
-Kobe Bryant,33,LAL,2,352,1210,0.291
-Tony Parker,29,SAS,4,331,1210,0.274
-Kevin Love,23,MIN,0,58,1210,0.048
-Dwight Howard,26,ORL,0,13,1210,0.011
-Rajon Rondo,25,BOS,0,12,1210,0.01
-Steve Nash,37,PHO,0,7,1210,0.006
-Dwyane Wade,30,MIA,0,6,1210,0.005
-Derrick Rose,23,CHI,0,5,1210,0.004
-Dirk Nowitzki,33,DAL,0,4,1210,0.003
-Russell Westbrook,23,OKC,0,4,1210,0.003
-Tim Duncan,35,SAS,0,3,1210,0.002
-Joe Johnson,30,ATL,0,1,1210,0.001
+Player,Tm,Share
+LeBron James,MIA,0.888
+Kevin Durant,OKC,0.735
+Chris Paul,LAC,0.318
+Kobe Bryant,LAL,0.291
+Tony Parker,SAS,0.274
+Kevin Love,MIN,0.048
+Dwight Howard,ORL,0.011
+Rajon Rondo,BOS,0.01
+Steve Nash,PHO,0.006
+Dwyane Wade,MIA,0.005
+Derrick Rose,CHI,0.004
+Dirk Nowitzki,DAL,0.003
+Russell Westbrook,OKC,0.003
+Tim Duncan,SAS,0.002
+Joe Johnson,ATL,0.001

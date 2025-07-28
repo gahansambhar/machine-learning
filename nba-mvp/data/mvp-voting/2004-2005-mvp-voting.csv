@@ -1,17 +1,17 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-Steve Nash,30,PHO,65,1066,1270,0.839
-Shaquille O'Neal,32,MIA,58,1032,1270,0.813
-Dirk Nowitzki,26,DAL,0,349,1270,0.275
-Tim Duncan,28,SAS,1,328,1270,0.258
-Allen Iverson,29,PHI,2,240,1270,0.189
-LeBron James,20,CLE,0,93,1270,0.073
-Tracy McGrady,25,HOU,0,44,1270,0.035
-Dwyane Wade,23,MIA,0,43,1270,0.034
-Amar'e Stoudemire,22,PHO,1,41,1270,0.032
-Ray Allen,29,SEA,0,41,1270,0.032
-Kevin Garnett,28,MIN,0,15,1270,0.012
-Gilbert Arenas,23,WAS,0,4,1270,0.003
-Vince Carter,28,TOT,0,3,1270,0.002
-P.J. Brown,35,NOH,0,1,1270,0.001
-Marcus Camby,30,DEN,0,1,1270,0.001
-Shawn Marion,26,PHO,0,1,1270,0.001
+Player,Tm,Share
+Steve Nash,PHO,0.839
+Shaquille O'Neal,MIA,0.813
+Dirk Nowitzki,DAL,0.275
+Tim Duncan,SAS,0.258
+Allen Iverson,PHI,0.189
+LeBron James,CLE,0.073
+Tracy McGrady,HOU,0.035
+Dwyane Wade,MIA,0.034
+Amar'e Stoudemire,PHO,0.032
+Ray Allen,SEA,0.032
+Kevin Garnett,MIN,0.012
+Gilbert Arenas,WAS,0.003
+Vince Carter,TOT,0.002
+P.J. Brown,NOH,0.001
+Marcus Camby,DEN,0.001
+Shawn Marion,PHO,0.001

@@ -1,13 +1,13 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-Giannis Antetokounmpo,24,MIL,78,941,1010,0.932
-James Harden,29,HOU,23,776,1010,0.768
-Paul George,28,OKC,0,356,1010,0.352
-Nikola JokiÄ,23,DEN,0,212,1010,0.21
-Stephen Curry,30,GSW,0,175,1010,0.173
-Damian Lillard,28,POR,0,69,1010,0.068
-Joel Embiid,24,PHI,0,49,1010,0.049
-Kevin Durant,30,GSW,0,25,1010,0.025
-Kawhi Leonard,27,TOR,0,13,1010,0.013
-Russell Westbrook,30,OKC,0,8,1010,0.008
-Rudy Gobert,26,UTA,0,1,1010,0.001
-LeBron James,34,LAL,0,1,1010,0.001
+Player,Tm,Share
+Giannis Antetokounmpo,MIL,0.932
+James Harden,HOU,0.768
+Paul George,OKC,0.352
+Nikola JokiÄ,DEN,0.21
+Stephen Curry,GSW,0.173
+Damian Lillard,POR,0.068
+Joel Embiid,PHI,0.049
+Kevin Durant,GSW,0.025
+Kawhi Leonard,TOR,0.013
+Russell Westbrook,OKC,0.008
+Rudy Gobert,UTA,0.001
+LeBron James,LAL,0.001

@@ -1,18 +1,18 @@
-Player,Age,Tm,First,Pts Won,Pts Max,Share
-Allen Iverson,25,PHI,93,1121,1240,0.904
-Tim Duncan,24,SAS,18,706,1240,0.569
-Shaquille O'Neal,28,LAL,7,578,1240,0.466
-Chris Webber,27,SAC,5,521,1240,0.42
-Kevin Garnett,24,MIN,1,151,1240,0.122
-Tracy McGrady,21,ORL,0,64,1240,0.052
-Karl Malone,37,UTA,0,21,1240,0.017
-Jason Kidd,27,PHO,0,18,1240,0.015
-Kobe Bryant,22,LAL,0,11,1240,0.009
-David Robinson,35,SAS,0,8,1240,0.006
-Ray Allen,25,MIL,0,7,1240,0.006
-Vince Carter,24,TOR,0,7,1240,0.006
-Paul Pierce,23,BOS,0,5,1240,0.004
-Jerry Stackhouse,26,DET,0,3,1240,0.002
-Michael Finley,27,DAL,0,1,1240,0.001
-Anthony Mason,34,MIA,0,1,1240,0.001
-John Stockton,38,UTA,0,1,1240,0.001
+Player,Tm,Share
+Allen Iverson,PHI,0.904
+Tim Duncan,SAS,0.569
+Shaquille O'Neal,LAL,0.466
+Chris Webber,SAC,0.42
+Kevin Garnett,MIN,0.122
+Tracy McGrady,ORL,0.052
+Karl Malone,UTA,0.017
+Jason Kidd,PHO,0.015
+Kobe Bryant,LAL,0.009
+David Robinson,SAS,0.006
+Ray Allen,MIL,0.006
+Vince Carter,TOR,0.006
+Paul Pierce,BOS,0.004
+Jerry Stackhouse,DET,0.002
+Michael Finley,DAL,0.001
+Anthony Mason,MIA,0.001
+John Stockton,UTA,0.001
