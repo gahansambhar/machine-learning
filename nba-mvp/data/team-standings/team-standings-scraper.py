@@ -25,6 +25,8 @@ browser = webdriver.Chrome(service=webdriver_service, options=chrome_options)
 year = 2000
 
 while year <= 2025:
+    if year == 1999:
+        continue
     url = f"https://www.basketball-reference.com/leagues/NBA_{year}_standings.html"
     browser.get(url)
     time.sleep(3)
@@ -64,3 +66,8 @@ while year <= 2025:
     df.to_csv(f"{year-1}-{year}-team-standings.csv", index=False)
 
     year += 1
+
+# 1999 lockout season led to complications with pre and post all star
+# game record as there was no all star game. Pre record estimated by
+# adding Feb and March record. Post record estimated by adding Apr
+# and May record. (This was all done manually)
