@@ -1,24 +1,24 @@
-Player,Tm,Share
-Larry Bird,BOS,0.978
-Magic Johnson,LAL,0.338
-Moses Malone,PHI,0.279
-Kareem Abdul-Jabbar,LAL,0.264
-Terry Cummings,MIL,0.177
-Michael Jordan,CHI,0.172
-Bernard King,NYK,0.09
-Sidney Moncrief,MIL,0.083
-Isiah Thomas,DET,0.081
-Ralph Sampson,HOU,0.033
-Calvin Natt,DEN,0.028
-Alex English,DEN,0.015
-Hakeem Olajuwon,HOU,0.015
-Michael Ray Richardson,NJN,0.014
-Andrew Toney,PHI,0.006
-Mark Eaton,UTA,0.005
-Paul Pressey,MIL,0.004
-Jack Sikma,SEA,0.004
-Dominique Wilkins,ATL,0.004
-World B. Free,CLE,0.003
-Purvis Short,GSW,0.003
-Clyde Drexler,POR,0.001
-Julius Erving,PHI,0.001
+Player,Share,Team
+Larry Bird,0.978,BOS
+Magic Johnson,0.338,LAL
+Moses Malone,0.279,PHI
+Kareem Abdul-Jabbar,0.264,LAL
+Terry Cummings,0.177,MIL
+Michael Jordan,0.172,CHI
+Bernard King,0.09,NYK
+Sidney Moncrief,0.083,MIL
+Isiah Thomas,0.081,DET
+Ralph Sampson,0.033,HOU
+Calvin Natt,0.028,DEN
+Alex English,0.015,DEN
+Hakeem Olajuwon,0.015,HOU
+Michael Ray Richardson,0.014,NJN
+Andrew Toney,0.006,PHI
+Mark Eaton,0.005,UTA
+Paul Pressey,0.004,MIL
+Jack Sikma,0.004,SEA
+Dominique Wilkins,0.004,ATL
+World B. Free,0.003,CLE
+Purvis Short,0.003,GSW
+Clyde Drexler,0.001,POR
+Julius Erving,0.001,PHI

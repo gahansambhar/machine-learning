@@ -1,13 +1,13 @@
-Player,Tm,Share
-Giannis Antetokounmpo,MIL,0.952
-LeBron James,LAL,0.746
-James Harden,HOU,0.363
-Luka DonÄiÄ,DAL,0.198
-Kawhi Leonard,LAC,0.166
-Anthony Davis,LAL,0.081
-Chris Paul,OKC,0.026
-Damian Lillard,POR,0.023
-Nikola JokiÄ,DEN,0.018
-Pascal Siakam,TOR,0.017
-Jimmy Butler,MIA,0.009
-Jayson Tatum,BOS,0.001
+Player,Share,Team
+Giannis Antetokounmpo,0.952,MIL
+LeBron James,0.746,LAL
+James Harden,0.363,HOU
+Luka DonÄiÄ,0.198,DAL
+Kawhi Leonard,0.166,LAC
+Anthony Davis,0.081,LAL
+Chris Paul,0.026,OKC
+Damian Lillard,0.023,POR
+Nikola JokiÄ,0.018,DEN
+Pascal Siakam,0.017,TOR
+Jimmy Butler,0.009,MIA
+Jayson Tatum,0.001,BOS

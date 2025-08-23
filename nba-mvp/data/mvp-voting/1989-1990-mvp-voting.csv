@@ -1,15 +1,15 @@
-Player,Tm,Share
-Magic Johnson,LAL,0.691
-Charles Barkley,PHI,0.667
-Michael Jordan,CHI,0.613
-Karl Malone,UTA,0.233
-Patrick Ewing,NYK,0.176
-David Robinson,SAS,0.111
-Hakeem Olajuwon,HOU,0.07
-Tom Chambers,PHO,0.013
-John Stockton,UTA,0.01
-Larry Bird,BOS,0.005
-Buck Williams,POR,0.005
-Clyde Drexler,POR,0.003
-Joe Dumars,DET,0.001
-Isiah Thomas,DET,0.001
+Player,Share,Team
+Magic Johnson,0.691,LAL
+Charles Barkley,0.667,PHI
+Michael Jordan,0.613,CHI
+Karl Malone,0.233,UTA
+Patrick Ewing,0.176,NYK
+David Robinson,0.111,SAS
+Hakeem Olajuwon,0.07,HOU
+Tom Chambers,0.013,PHO
+John Stockton,0.01,UTA
+Larry Bird,0.005,BOS
+Buck Williams,0.005,POR
+Clyde Drexler,0.003,POR
+Joe Dumars,0.001,DET
+Isiah Thomas,0.001,DET

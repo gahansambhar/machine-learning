@@ -1,17 +1,17 @@
-Player,Tm,Share
-Kevin Garnett,MIN,0.991
-Tim Duncan,SAS,0.582
-Jermaine O'Neal,IND,0.425
-Peja StojakoviÄ,SAC,0.228
-Kobe Bryant,LAL,0.172
-Shaquille O'Neal,LAL,0.145
-Ben Wallace,DET,0.02
-Jason Kidd,NJN,0.014
-LeBron James,CLE,0.009
-Sam Cassell,MIN,0.003
-Baron Davis,NOH,0.003
-Dirk Nowitzki,DAL,0.003
-Andrei Kirilenko,UTA,0.002
-Carmelo Anthony,DEN,0.001
-Yao Ming,HOU,0.001
-Michael Redd,MIL,0.001
+Player,Share,Team
+Kevin Garnett,0.991,MIN
+Tim Duncan,0.582,SAS
+Jermaine O'Neal,0.425,IND
+Peja StojakoviÄ,0.228,SAC
+Kobe Bryant,0.172,LAL
+Shaquille O'Neal,0.145,LAL
+Ben Wallace,0.02,DET
+Jason Kidd,0.014,NJN
+LeBron James,0.009,CLE
+Sam Cassell,0.003,MIN
+Baron Davis,0.003,NOH
+Dirk Nowitzki,0.003,DAL
+Andrei Kirilenko,0.002,UTA
+Carmelo Anthony,0.001,DEN
+Yao Ming,0.001,HOU
+Michael Redd,0.001,MIL

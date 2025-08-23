@@ -1,18 +1,18 @@
-Player,Tm,Share
-Kobe Bryant,LAL,0.873
-Chris Paul,NOH,0.71
-Kevin Garnett,BOS,0.532
-LeBron James,CLE,0.348
-Dwight Howard,ORL,0.048
-Amar'e Stoudemire,PHO,0.021
-Tim Duncan,SAS,0.02
-Tracy McGrady,HOU,0.015
-Steve Nash,PHO,0.014
-Manu GinÃ³bili,SAS,0.007
-Dirk Nowitzki,DAL,0.004
-Deron Williams,UTA,0.003
-Carmelo Anthony,DEN,0.002
-Carlos Boozer,UTA,0.001
-Antawn Jamison,WAS,0.001
-Paul Pierce,BOS,0.001
-Rasheed Wallace,DET,0.001
+Player,Share,Team
+Kobe Bryant,0.873,LAL
+Chris Paul,0.71,NOH
+Kevin Garnett,0.532,BOS
+LeBron James,0.348,CLE
+Dwight Howard,0.048,ORL
+Amar'e Stoudemire,0.021,PHO
+Tim Duncan,0.02,SAS
+Tracy McGrady,0.015,HOU
+Steve Nash,0.014,PHO
+Manu GinÃ³bili,0.007,SAS
+Dirk Nowitzki,0.004,DAL
+Deron Williams,0.003,UTA
+Carmelo Anthony,0.002,DEN
+Carlos Boozer,0.001,UTA
+Antawn Jamison,0.001,WAS
+Paul Pierce,0.001,BOS
+Rasheed Wallace,0.001,DET

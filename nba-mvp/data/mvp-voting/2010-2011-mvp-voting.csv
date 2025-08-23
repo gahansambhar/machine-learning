@@ -1,14 +1,14 @@
-Player,Tm,Share
-Derrick Rose,CHI,0.977
-Dwight Howard,ORL,0.531
-LeBron James,MIA,0.431
-Kobe Bryant,LAL,0.354
-Kevin Durant,OKC,0.157
-Dirk Nowitzki,DAL,0.093
-Dwyane Wade,MIA,0.02
-Manu GinÃ³bili,SAS,0.017
-Amar'e Stoudemire,NYK,0.007
-Blake Griffin,LAC,0.004
-Rajon Rondo,BOS,0.004
-Tony Parker,SAS,0.002
-Chris Paul,NOH,0.002
+Player,Share,Team
+Derrick Rose,0.977,CHI
+Dwight Howard,0.531,ORL
+LeBron James,0.431,MIA
+Kobe Bryant,0.354,LAL
+Kevin Durant,0.157,OKC
+Dirk Nowitzki,0.093,DAL
+Dwyane Wade,0.02,MIA
+Manu GinÃ³bili,0.017,SAS
+Amar'e Stoudemire,0.007,NYK
+Blake Griffin,0.004,LAC
+Rajon Rondo,0.004,BOS
+Tony Parker,0.002,SAS
+Chris Paul,0.002,NOH

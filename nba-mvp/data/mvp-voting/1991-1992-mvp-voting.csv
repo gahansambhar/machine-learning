@@ -1,18 +1,18 @@
-Player,Tm,Share
-Michael Jordan,CHI,0.938
-Clyde Drexler,POR,0.584
-David Robinson,SAS,0.351
-Karl Malone,UTA,0.273
-Patrick Ewing,NYK,0.104
-Chris Mullin,GSW,0.084
-Mark Price,CLE,0.069
-Tim Hardaway,GSW,0.067
-Scottie Pippen,CHI,0.033
-Dennis Rodman,DET,0.027
-Brad Daugherty,CLE,0.025
-Charles Barkley,PHI,0.019
-John Stockton,UTA,0.019
-Larry Bird,BOS,0.003
-Kevin Johnson,PHO,0.002
-Danny Manning,LAC,0.001
-Detlef Schrempf,IND,0.001
+Player,Share,Team
+Michael Jordan,0.938,CHI
+Clyde Drexler,0.584,POR
+David Robinson,0.351,SAS
+Karl Malone,0.273,UTA
+Patrick Ewing,0.104,NYK
+Chris Mullin,0.084,GSW
+Mark Price,0.069,CLE
+Tim Hardaway,0.067,GSW
+Scottie Pippen,0.033,CHI
+Dennis Rodman,0.027,DET
+Brad Daugherty,0.025,CLE
+Charles Barkley,0.019,PHI
+John Stockton,0.019,UTA
+Larry Bird,0.003,BOS
+Kevin Johnson,0.002,PHO
+Danny Manning,0.001,LAC
+Detlef Schrempf,0.001,IND

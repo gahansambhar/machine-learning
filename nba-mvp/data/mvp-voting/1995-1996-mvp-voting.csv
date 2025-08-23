@@ -1,18 +1,18 @@
-Player,Tm,Share
-Michael Jordan,CHI,0.986
-David Robinson,SAS,0.508
-Anfernee Hardaway,ORL,0.319
-Hakeem Olajuwon,HOU,0.211
-Scottie Pippen,CHI,0.2
-Gary Payton,SEA,0.087
-Karl Malone,UTA,0.075
-Shawn Kemp,SEA,0.065
-Grant Hill,DET,0.056
-Shaquille O'Neal,ORL,0.056
-John Stockton,UTA,0.011
-Charles Barkley,PHO,0.007
-Magic Johnson,LAL,0.007
-Alonzo Mourning,MIA,0.005
-Dennis Rodman,CHI,0.004
-Terrell Brandon,CLE,0.003
-Mitch Richmond,SAC,0.003
+Player,Share,Team
+Michael Jordan,0.986,CHI
+David Robinson,0.508,SAS
+Anfernee Hardaway,0.319,ORL
+Hakeem Olajuwon,0.211,HOU
+Scottie Pippen,0.2,CHI
+Gary Payton,0.087,SEA
+Karl Malone,0.075,UTA
+Shawn Kemp,0.065,SEA
+Grant Hill,0.056,DET
+Shaquille O'Neal,0.056,ORL
+John Stockton,0.011,UTA
+Charles Barkley,0.007,PHO
+Magic Johnson,0.007,LAL
+Alonzo Mourning,0.005,MIA
+Dennis Rodman,0.004,CHI
+Terrell Brandon,0.003,CLE
+Mitch Richmond,0.003,SAC

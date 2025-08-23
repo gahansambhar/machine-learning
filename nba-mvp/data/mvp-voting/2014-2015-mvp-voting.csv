@@ -1,13 +1,13 @@
-Player,Tm,Share
-Stephen Curry,GSW,0.922
-James Harden,HOU,0.72
-LeBron James,CLE,0.425
-Russell Westbrook,OKC,0.271
-Anthony Davis,NOP,0.156
-Chris Paul,LAC,0.095
-LaMarcus Aldridge,POR,0.005
-Marc Gasol,MEM,0.002
-Blake Griffin,LAC,0.002
-Tim Duncan,SAS,0.001
-Kawhi Leonard,SAS,0.001
-Klay Thompson,GSW,0.001
+Player,Share,Team
+Stephen Curry,0.922,GSW
+James Harden,0.72,HOU
+LeBron James,0.425,CLE
+Russell Westbrook,0.271,OKC
+Anthony Davis,0.156,NOP
+Chris Paul,0.095,LAC
+LaMarcus Aldridge,0.005,POR
+Marc Gasol,0.002,MEM
+Blake Griffin,0.002,LAC
+Tim Duncan,0.001,SAS
+Kawhi Leonard,0.001,SAS
+Klay Thompson,0.001,GSW

@@ -1,11 +1,11 @@
-Player,Tm,Share
-Stephen Curry,GSW,1.0
-Kawhi Leonard,SAS,0.484
-LeBron James,CLE,0.482
-Russell Westbrook,OKC,0.371
-Kevin Durant,OKC,0.112
-Chris Paul,LAC,0.082
-Draymond Green,GSW,0.038
-Damian Lillard,POR,0.02
-James Harden,HOU,0.007
-Kyle Lowry,TOR,0.005
+Player,Share,Team
+Stephen Curry,1.0,GSW
+Kawhi Leonard,0.484,SAS
+LeBron James,0.482,CLE
+Russell Westbrook,0.371,OKC
+Kevin Durant,0.112,OKC
+Chris Paul,0.082,LAC
+Draymond Green,0.038,GSW
+Damian Lillard,0.02,POR
+James Harden,0.007,HOU
+Kyle Lowry,0.005,TOR

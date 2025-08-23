@@ -1,18 +1,18 @@
-Player,Tm,Share
-Michael Jordan,CHI,0.831
-Larry Bird,BOS,0.659
-Magic Johnson,LAL,0.635
-Charles Barkley,PHI,0.136
-Clyde Drexler,POR,0.108
-Dominique Wilkins,ATL,0.069
-Hakeem Olajuwon,HOU,0.05
-Karl Malone,UTA,0.045
-Fat Lever,DEN,0.033
-John Stockton,UTA,0.019
-Alex English,DEN,0.005
-Isiah Thomas,DET,0.004
-Mark Jackson,NYK,0.003
-Michael Adams,DEN,0.001
-Mark Aguirre,DAL,0.001
-Adrian Dantley,DET,0.001
-Buck Williams,NJN,0.001
+Player,Share,Team
+Michael Jordan,0.831,CHI
+Larry Bird,0.659,BOS
+Magic Johnson,0.635,LAL
+Charles Barkley,0.136,PHI
+Clyde Drexler,0.108,POR
+Dominique Wilkins,0.069,ATL
+Hakeem Olajuwon,0.05,HOU
+Karl Malone,0.045,UTA
+Fat Lever,0.033,DEN
+John Stockton,0.019,UTA
+Alex English,0.005,DEN
+Isiah Thomas,0.004,DET
+Mark Jackson,0.003,NYK
+Michael Adams,0.001,DEN
+Mark Aguirre,0.001,DAL
+Adrian Dantley,0.001,DET
+Buck Williams,0.001,NJN

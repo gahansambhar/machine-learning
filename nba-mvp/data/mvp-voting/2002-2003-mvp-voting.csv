@@ -1,14 +1,14 @@
-Player,Tm,Share
-Tim Duncan,SAS,0.808
-Kevin Garnett,MIN,0.732
-Kobe Bryant,LAL,0.417
-Tracy McGrady,ORL,0.359
-Shaquille O'Neal,LAL,0.106
-Allen Iverson,PHI,0.07
-Dirk Nowitzki,DAL,0.036
-Ben Wallace,DET,0.028
-Jason Kidd,NJN,0.026
-Chris Webber,SAC,0.016
-Jamal Mashburn,NOH,0.001
-Steve Nash,DAL,0.001
-Paul Pierce,BOS,0.001
+Player,Share,Team
+Tim Duncan,0.808,SAS
+Kevin Garnett,0.732,MIN
+Kobe Bryant,0.417,LAL
+Tracy McGrady,0.359,ORL
+Shaquille O'Neal,0.106,LAL
+Allen Iverson,0.07,PHI
+Dirk Nowitzki,0.036,DAL
+Ben Wallace,0.028,DET
+Jason Kidd,0.026,NJN
+Chris Webber,0.016,SAC
+Jamal Mashburn,0.001,NOH
+Steve Nash,0.001,DAL
+Paul Pierce,0.001,BOS

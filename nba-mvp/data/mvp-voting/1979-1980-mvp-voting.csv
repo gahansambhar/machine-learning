@@ -1,10 +1,10 @@
-Player,Tm,Share
-Kareem Abdul-Jabbar,LAL,0.665
-Julius Erving,PHI,0.143
-George Gervin,SAS,0.086
-Larry Bird,BOS,0.068
-Tiny Archibald,BOS,0.009
-Dennis Johnson,SEA,0.009
-Dan Roundfield,ATL,0.009
-Gus Williams,SEA,0.007
-Moses Malone,HOU,0.005
+Player,Share,Team
+Kareem Abdul-Jabbar,0.665,LAL
+Julius Erving,0.143,PHI
+George Gervin,0.086,SAS
+Larry Bird,0.068,BOS
+Tiny Archibald,0.009,BOS
+Dennis Johnson,0.009,SEA
+Dan Roundfield,0.009,ATL
+Gus Williams,0.007,SEA
+Moses Malone,0.005,HOU

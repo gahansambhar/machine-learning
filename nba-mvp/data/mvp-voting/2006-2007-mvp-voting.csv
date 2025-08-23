@@ -1,18 +1,18 @@
-Player,Tm,Share
-Dirk Nowitzki,DAL,0.882
-Steve Nash,PHO,0.785
-Kobe Bryant,LAL,0.404
-Tim Duncan,SAS,0.222
-LeBron James,CLE,0.142
-Tracy McGrady,HOU,0.085
-Chris Bosh,TOR,0.033
-Gilbert Arenas,WAS,0.024
-Carlos Boozer,UTA,0.005
-Kevin Garnett,MIN,0.005
-Chauncey Billups,DET,0.003
-Shaquille O'Neal,MIA,0.002
-Dwyane Wade,MIA,0.002
-Amar'e Stoudemire,PHO,0.002
-Carmelo Anthony,DEN,0.001
-Baron Davis,GSW,0.001
-Tony Parker,SAS,0.001
+Player,Share,Team
+Dirk Nowitzki,0.882,DAL
+Steve Nash,0.785,PHO
+Kobe Bryant,0.404,LAL
+Tim Duncan,0.222,SAS
+LeBron James,0.142,CLE
+Tracy McGrady,0.085,HOU
+Chris Bosh,0.033,TOR
+Gilbert Arenas,0.024,WAS
+Carlos Boozer,0.005,UTA
+Kevin Garnett,0.005,MIN
+Chauncey Billups,0.003,DET
+Shaquille O'Neal,0.002,MIA
+Dwyane Wade,0.002,MIA
+Amar'e Stoudemire,0.002,PHO
+Carmelo Anthony,0.001,DEN
+Baron Davis,0.001,GSW
+Tony Parker,0.001,SAS

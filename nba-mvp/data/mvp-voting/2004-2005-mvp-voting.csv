@@ -1,18 +1,18 @@
-Player,Tm,Share
-Steve Nash,PHO,0.839
-Shaquille O'Neal,MIA,0.813
-Dirk Nowitzki,DAL,0.275
-Tim Duncan,SAS,0.258
-Allen Iverson,PHI,0.189
-LeBron James,CLE,0.073
-Tracy McGrady,HOU,0.035
-Dwyane Wade,MIA,0.034
-Amar'e Stoudemire,PHO,0.032
-Ray Allen,SEA,0.032
-Kevin Garnett,MIN,0.012
-Gilbert Arenas,WAS,0.003
-Vince Carter,TOR,0.002 
-Vince Carter,NJN,0.002
-P.J. Brown,NOH,0.001
-Marcus Camby,DEN,0.001
-Shawn Marion,PHO,0.001
+Player,Share,Team
+Steve Nash,0.839,PHO
+Shaquille O'Neal,0.813,MIA
+Dirk Nowitzki,0.275,DAL
+Tim Duncan,0.258,SAS
+Allen Iverson,0.189,PHI
+LeBron James,0.073,CLE
+Tracy McGrady,0.035,HOU
+Dwyane Wade,0.034,MIA
+Amar'e Stoudemire,0.032,PHO
+Ray Allen,0.032,SEA
+Kevin Garnett,0.012,MIN
+Gilbert Arenas,0.003,WAS
+Vince Carter,0.002,TOR
+Vince Carter,0.002,NJN
+P.J. Brown,0.001,NOH
+Marcus Camby,0.001,DEN
+Shawn Marion,0.001,PHO

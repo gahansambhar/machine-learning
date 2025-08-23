@@ -1,15 +1,15 @@
-Player,Tm,Share
-Charles Barkley,PHO,0.852
-Hakeem Olajuwon,HOU,0.66
-Michael Jordan,CHI,0.577
-Patrick Ewing,NYK,0.366
-Dominique Wilkins,ATL,0.055
-David Robinson,SAS,0.034
-Shaquille O'Neal,ORL,0.031
-Karl Malone,UTA,0.01
-Mark Price,CLE,0.01
-Brad Daugherty,CLE,0.001
-Clyde Drexler,POR,0.001
-Joe Dumars,DET,0.001
-Shawn Kemp,SEA,0.001
-John Stockton,UTA,0.001
+Player,Share,Team
+Charles Barkley,0.852,PHO
+Hakeem Olajuwon,0.66,HOU
+Michael Jordan,0.577,CHI
+Patrick Ewing,0.366,NYK
+Dominique Wilkins,0.055,ATL
+David Robinson,0.034,SAS
+Shaquille O'Neal,0.031,ORL
+Karl Malone,0.01,UTA
+Mark Price,0.01,CLE
+Brad Daugherty,0.001,CLE
+Clyde Drexler,0.001,POR
+Joe Dumars,0.001,DET
+Shawn Kemp,0.001,SEA
+John Stockton,0.001,UTA

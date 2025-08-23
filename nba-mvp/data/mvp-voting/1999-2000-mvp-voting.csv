@@ -1,17 +1,17 @@
-Player,Tm,Share
-Shaquille O'Neal,LAL,0.998
-Kevin Garnett,MIN,0.337
-Alonzo Mourning,MIA,0.303
-Karl Malone,UTA,0.258
-Tim Duncan,SAS,0.205
-Gary Payton,SEA,0.149
-Allen Iverson,PHI,0.109
-Grant Hill,DET,0.093
-Chris Webber,SAC,0.079
-Vince Carter,TOR,0.042
-Jason Kidd,PHO,0.021
-Kobe Bryant,LAL,0.002
-Darrell Armstrong,ORL,0.001
-Michael Finley,DAL,0.001
-Reggie Miller,IND,0.001
-Jalen Rose,IND,0.001
+Player,Share,Team
+Shaquille O'Neal,0.998,LAL
+Kevin Garnett,0.337,MIN
+Alonzo Mourning,0.303,MIA
+Karl Malone,0.258,UTA
+Tim Duncan,0.205,SAS
+Gary Payton,0.149,SEA
+Allen Iverson,0.109,PHI
+Grant Hill,0.093,DET
+Chris Webber,0.079,SAC
+Vince Carter,0.042,TOR
+Jason Kidd,0.021,PHO
+Kobe Bryant,0.002,LAL
+Darrell Armstrong,0.001,ORL
+Michael Finley,0.001,DAL
+Reggie Miller,0.001,IND
+Jalen Rose,0.001,IND

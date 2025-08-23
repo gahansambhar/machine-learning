@@ -1,17 +1,17 @@
-Player,Tm,Share
-David Robinson,SAS,0.858
-Shaquille O'Neal,ORL,0.576
-Karl Malone,UTA,0.507
-Patrick Ewing,NYK,0.219
-Hakeem Olajuwon,HOU,0.14
-Charles Barkley,PHO,0.091
-Scottie Pippen,CHI,0.079
-John Stockton,UTA,0.045
-Gary Payton,SEA,0.032
-Anfernee Hardaway,ORL,0.022
-Michael Jordan,CHI,0.011
-Dennis Rodman,SAS,0.009
-Jason Kidd,DAL,0.007
-Clyde Drexler,POR,0.003
-Clyde Drexler,HOU,0.003
-Cedric Ceballos,LAL,0.001
+Player,Share,Team
+David Robinson,0.858,SAS
+Shaquille O'Neal,0.576,ORL
+Karl Malone,0.507,UTA
+Patrick Ewing,0.219,NYK
+Hakeem Olajuwon,0.14,HOU
+Charles Barkley,0.091,PHO
+Scottie Pippen,0.079,CHI
+John Stockton,0.045,UTA
+Gary Payton,0.032,SEA
+Anfernee Hardaway,0.022,ORL
+Michael Jordan,0.011,CHI
+Dennis Rodman,0.009,SAS
+Jason Kidd,0.007,DAL
+Clyde Drexler,0.003,POR
+Clyde Drexler,0.003,HOU
+Cedric Ceballos,0.001,LAL

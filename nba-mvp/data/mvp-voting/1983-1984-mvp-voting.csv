@@ -1,16 +1,16 @@
-Player,Tm,Share
-Larry Bird,BOS,0.858
-Bernard King,NYK,0.491
-Magic Johnson,LAL,0.401
-Kareem Abdul-Jabbar,LAL,0.201
-Isiah Thomas,DET,0.151
-Julius Erving,PHI,0.129
-Adrian Dantley,UTA,0.116
-Sidney Moncrief,MIL,0.092
-Jeff Ruland,WSB,0.05
-Moses Malone,PHI,0.046
-Mark Aguirre,DAL,0.037
-Bill Laimbeer,DET,0.012
-Rickey Green,UTA,0.011
-World B. Free,CLE,0.001
-Marques Johnson,MIL,0.001
+Player,Share,Team
+Larry Bird,0.858,BOS
+Bernard King,0.491,NYK
+Magic Johnson,0.401,LAL
+Kareem Abdul-Jabbar,0.201,LAL
+Isiah Thomas,0.151,DET
+Julius Erving,0.129,PHI
+Adrian Dantley,0.116,UTA
+Sidney Moncrief,0.092,MIL
+Jeff Ruland,0.05,WSB
+Moses Malone,0.046,PHI
+Mark Aguirre,0.037,DAL
+Bill Laimbeer,0.012,DET
+Rickey Green,0.011,UTA
+World B. Free,0.001,CLE
+Marques Johnson,0.001,MIL

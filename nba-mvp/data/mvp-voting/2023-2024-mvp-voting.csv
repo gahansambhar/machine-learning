@@ -1,10 +1,10 @@
-Player,Tm,Share
-Nikola JokiÄ,DEN,0.935
-Shai Gilgeous-Alexander,OKC,0.646
-Luka DonÄiÄ,DAL,0.572
-Giannis Antetokounmpo,MIL,0.194
-Jalen Brunson,NYK,0.143
-Jayson Tatum,BOS,0.087
-Anthony Edwards,MIN,0.018
-Domantas Sabonis,SAC,0.003
-Kevin Durant,PHO,0.001
+Player,Share,Team
+Nikola JokiÄ,0.935,DEN
+Shai Gilgeous-Alexander,0.646,OKC
+Luka DonÄiÄ,0.572,DAL
+Giannis Antetokounmpo,0.194,MIL
+Jalen Brunson,0.143,NYK
+Jayson Tatum,0.087,BOS
+Anthony Edwards,0.018,MIN
+Domantas Sabonis,0.003,SAC
+Kevin Durant,0.001,PHO

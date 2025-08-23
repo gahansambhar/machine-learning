@@ -1,13 +1,13 @@
-Player,Tm,Share
-Giannis Antetokounmpo,MIL,0.932
-James Harden,HOU,0.768
-Paul George,OKC,0.352
-Nikola JokiÄ,DEN,0.21
-Stephen Curry,GSW,0.173
-Damian Lillard,POR,0.068
-Joel Embiid,PHI,0.049
-Kevin Durant,GSW,0.025
-Kawhi Leonard,TOR,0.013
-Russell Westbrook,OKC,0.008
-Rudy Gobert,UTA,0.001
-LeBron James,LAL,0.001
+Player,Share,Team
+Giannis Antetokounmpo,0.932,MIL
+James Harden,0.768,HOU
+Paul George,0.352,OKC
+Nikola JokiÄ,0.21,DEN
+Stephen Curry,0.173,GSW
+Damian Lillard,0.068,POR
+Joel Embiid,0.049,PHI
+Kevin Durant,0.025,GSW
+Kawhi Leonard,0.013,TOR
+Russell Westbrook,0.008,OKC
+Rudy Gobert,0.001,UTA
+LeBron James,0.001,LAL

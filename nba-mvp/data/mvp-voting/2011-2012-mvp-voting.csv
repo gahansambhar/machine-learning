@@ -1,16 +1,16 @@
-Player,Tm,Share
-LeBron James,MIA,0.888
-Kevin Durant,OKC,0.735
-Chris Paul,LAC,0.318
-Kobe Bryant,LAL,0.291
-Tony Parker,SAS,0.274
-Kevin Love,MIN,0.048
-Dwight Howard,ORL,0.011
-Rajon Rondo,BOS,0.01
-Steve Nash,PHO,0.006
-Dwyane Wade,MIA,0.005
-Derrick Rose,CHI,0.004
-Dirk Nowitzki,DAL,0.003
-Russell Westbrook,OKC,0.003
-Tim Duncan,SAS,0.002
-Joe Johnson,ATL,0.001
+Player,Share,Team
+LeBron James,0.888,MIA
+Kevin Durant,0.735,OKC
+Chris Paul,0.318,LAC
+Kobe Bryant,0.291,LAL
+Tony Parker,0.274,SAS
+Kevin Love,0.048,MIN
+Dwight Howard,0.011,ORL
+Rajon Rondo,0.01,BOS
+Steve Nash,0.006,PHO
+Dwyane Wade,0.005,MIA
+Derrick Rose,0.004,CHI
+Dirk Nowitzki,0.003,DAL
+Russell Westbrook,0.003,OKC
+Tim Duncan,0.002,SAS
+Joe Johnson,0.001,ATL
