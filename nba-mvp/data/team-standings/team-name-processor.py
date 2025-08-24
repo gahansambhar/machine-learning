@@ -48,3 +48,12 @@ while year <= 2025:
     df["Team"] = df["Team"].map(team_name_to_code)
     df.to_csv(file, index=False)
     year += 1
+
+
+year = 1980
+while year <= 2003:
+    file = f"{year-1}-{year}-team-standings.csv"
+    df = pd.read_csv(file)
+    df["Team"] = df["Team"].replace("CHO", "CHH")
+    df.to_csv(file, index=False)
+    year += 1
