@@ -11,6 +11,8 @@ data = pd.read_csv("data/data.csv")
 sns.set_theme(style="whitegrid")
 
 # %%
+
+sns.histplot(data=data["Share"], x="Share", y="Count  bins=10, binrange = (0.001,1))
 # %%
 # data for correlation matrix
 
@@ -27,7 +29,7 @@ sns.heatmap(corr, fmt=".2f", cmap="coolwarm")
 
 
 # %%
-sns.barplot(data=corr["Share"].sort_values(ascending=False).reset_index(), x="index", y="Share", palette="viridis", ) 
+sns.barplot(data=corr["Share"].sort_values(ascending=False).reset_index().head(20), x="index", y="Share", palette="viridis", ) 
 # %%
 # most MVP votes seem to be given to players between 
 # 23 to 33 years of age. We should include age as a 
