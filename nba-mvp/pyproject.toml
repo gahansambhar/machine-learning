@@ -4,4 +4,9 @@ version = "0.1.0"
 description = "Data scraping and modelling project to predict MVP voting for a given season"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "bs4>=0.0.2",
+    "notebook>=7.4.7",
+    "pandas>=2.3.3",
+    "requests>=2.32.5",
+]
