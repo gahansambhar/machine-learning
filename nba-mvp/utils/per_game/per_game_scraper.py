@@ -4,10 +4,11 @@ import requests
 import time
 
 
-def fetch_per_game():
-    year = 1980
+def fetch_per_game(year_from=1980, year_to=2025):
+    year = year_from
 
-    while year <= 2025:
+    df = pd.DataFrame()
+    while year <= year_to:
 
         # Extracting HTML content from required basketball reference page
         url = f"https://www.basketball-reference.com/leagues/NBA_{year}_per_game.html"
@@ -21,12 +22,17 @@ def fetch_per_game():
         headers = table.find_all("th")
         headers = [header.text for header in headers]
 
+        s = headers.index("Rk")
+        e = headers.index("Awards")
+
+        headers = headers[s : e + 1]
+
         # Creating the dataframe to store the data
-        df = pd.DataFrame(columns=headers)
+        curr = pd.DataFrame(columns=headers)
 
         # Processing each row individually and adding them to the dataframe
         rows = table.find_all("tr")
-        dfsize = 0
+        currsize = 0
 
         for row in rows:
             rowdata = []
@@ -37,11 +43,11 @@ def fetch_per_game():
             rowdata = [rowdata[i] for i in range(len(rowdata)) if i % 2 == 1]
 
             if rowdata[0] != "Rk" and rowdata[0] != "":
-                df.loc[dfsize] = rowdata
-                dfsize += 1
-
-        # Extracting info to a csv
-        df.to_csv(f"{year-1}-{year}-per-game-stats.csv", index=False)
-
+                curr.loc[currsize] = rowdata
+                currsize += 1
+        curr.insert(0, "year", year)
         year += 1
-        time.sleep(5)
+        df = pd.concat([df, curr])
+        time.sleep(1)
+
+    return df
