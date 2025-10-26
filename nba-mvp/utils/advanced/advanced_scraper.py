@@ -31,7 +31,7 @@ def fetch_advanced(year_from=1980, year_to=2025):
         # Creating the dataframe to store the data
         curr = pd.DataFrame(columns=headers)
 
-        # Processing each row individually and adding them to the dataframe
+        # Processing each row individually to insert into the dataframe
         rows = table.find_all("tr")
         currsize = 0
 
@@ -49,7 +49,6 @@ def fetch_advanced(year_from=1980, year_to=2025):
 
         curr.insert(0, "year", year)
         df = pd.concat([df, curr])
-        print(f"{year}, {df.iloc[-1]}")
         year += 1
         time.sleep(1)
 
